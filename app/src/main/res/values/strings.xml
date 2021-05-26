@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">randomizer</string>
+    <string name="app_name">Randomizer by Martynov Maksim</string>
+    <string name="prev_result">Previous result: %1s</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="result">Result:</string>
+    <string name="generate">Generate</string>
+    <string name="back">Back</string>
+    <string name="toast_message">Invalid input data! Please, check Minimum and Maximum values</string>
+
 </resources>
